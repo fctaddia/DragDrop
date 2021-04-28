@@ -9,5 +9,5 @@ Drag and drop with all views
 [![License](https://img.shields.io/github/license/fctaddia/DragDrop?color=29a621&label=License)](https://opensource.org/licenses/MIT)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ddbcb5cee8ed484797236a698d6e7c34)](https://www.codacy.com/gh/fctaddia/DragDrop/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fctaddia/DragDrop&amp;utm_campaign=Badge_Grade)
 
-![Showcase](https://raw.githubusercontent.com/fctaddia/DragDrop/main/docs/drag_screen.png)
+<img src="docs/drag_screen.png" alt="Showcase" height="300px">
 
